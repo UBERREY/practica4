@@ -1,0 +1,14 @@
+nombres : Uber 
+apellidos: reyes
+edad: 18
+estatura: 1.72
+telefono: 961 589 1857
+genero: Hombre
+
+nombres : uber alexis 
+apellidos: reyes reyes
+edad: 18
+estatura: 1.72
+telefono: 961 589 1857
+genero: Hombre
+
