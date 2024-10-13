@@ -1,14 +1,105 @@
-nombres : Uber 
-apellidos: reyes
+nombres : uber alexis 
+apellidos: reyes reyes
 edad: 18
 estatura: 1.72
 telefono: 961 589 1857
 genero: Hombre
 
 nombres : uber alexis 
-apellidos: reyes reyes
+apellidos: reyes camacho
 edad: 18
 estatura: 1.72
 telefono: 961 589 1857
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 18
+estatura: 
+telefono: 345678
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 18
+estatura: 1.72
+telefono: 9615891857
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 18
+estatura: 1.72
+telefono: 961589185765678
+genero: Hombre
+
+nombres : uehdhdn 
+apellidos: jshjsjsm
+edad: 72636
+estatura: 177263
+telefono: 12345678908654
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 18
+estatura: 1.17
+telefono: 8273738833
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 18
+estatura: 1.17
+telefono: 82737388333
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 18
+estatura: 1.17
+telefono: 82737388333
+genero: Hombre
+
+nombres : uber 
+apellidos: 
+edad: 18
+estatura: 1.17
+telefono: 82737388333
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 18
+estatura: 1.72
+telefono: 9615891857
+genero: Hombre
+
+nombres : Uber 
+apellidos: Reyes
+edad: 19
+estatura: 1.72
+telefono: 1231231233
+genero: Hombre
+
+nombres : asadas 
+apellidos: sadasds
+edad: 19
+estatura: 1.65
+telefono: 1231231233
+genero: Hombre
+
+nombres : Uber 
+apellidos: reyes
+edad: 19
+estatura: 1.68
+telefono: 1231231233
+genero: Hombre
+
+nombres : uber 
+apellidos: reyes
+edad: 19
+estatura: 1.72
+telefono: 9615891857
 genero: Hombre
 
